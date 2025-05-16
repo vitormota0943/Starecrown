@@ -1,0 +1,11 @@
+STARE:starecrown:1
+Staredown:thanoscrown:1
+Body Inversion:edgecrown:1
+Coming Soon:glarecrown:1
+Operation Frogsong:fred:2
+Coming Soon:naveek:3
+Coming Soon:criador:4
+Coming Soon:nada:4
+Coming Soon:wally:5
+Madness:starecrown:6
+
