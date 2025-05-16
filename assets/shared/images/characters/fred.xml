@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fred.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="576" height="576"/>
+	<SubTexture name="Idle0001" x="570" y="0" width="576" height="576"/>
+	<SubTexture name="Idle0002" x="1152" y="0" width="576" height="576"/>
+	<SubTexture name="Idle0003" x="1728" y="0" width="576" height="576"/>
+	<SubTexture name="Idle0004" x="2304" y="0" width="576" height="576"/>
+	<SubTexture name="Idle0005" x="2880" y="0" width="576" height="576"/>
+	<SubTexture name="Idle0006" x="3456" y="0" width="576" height="576"/>
+	<SubTexture name="Sing Down0000" x="5760" y="0" width="576" height="576"/>
+	<SubTexture name="Sing Down0001" x="6336" y="0" width="576" height="576"/>
+	<SubTexture name="Sing Down0002" x="0" y="576" width="576" height="576"/>
+	<SubTexture name="Sing Left0000" x="4032" y="0" width="576" height="576"/>
+	<SubTexture name="Sing Left0001" x="4608" y="0" width="576" height="576"/>
+	<SubTexture name="Sing Left0002" x="5184" y="0" width="576" height="576"/>
+	<SubTexture name="Sing Right0000" x="576" y="576" width="576" height="576"/>
+	<SubTexture name="Sing Right0001" x="1152" y="576" width="576" height="576"/>
+	<SubTexture name="Sing Right0002" x="1728" y="576" width="576" height="576"/>
+	<SubTexture name="Sing Up0000" x="2304" y="576" width="576" height="576"/>
+	<SubTexture name="Sing Up0001" x="2880" y="576" width="576" height="576"/>
+	<SubTexture name="Sing Up0002" x="3456" y="576" width="576" height="576"/>
+</TextureAtlas>
