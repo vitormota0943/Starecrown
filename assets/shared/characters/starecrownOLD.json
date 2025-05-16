@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-206,
+				-309
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up0"
+		},
+		{
+			"offsets": [
+				-70,
+				-328
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right0"
+		},
+		{
+			"offsets": [
+				-120,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down0"
+		},
+		{
+			"offsets": [
+				60,
+				-325
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-237,
+				-295
+			],
+			"anim": "Watching",
+			"fps": 1,
+			"name": "HeWatchesYOU0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-160,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starecrownOLD",
+	"position": [
+		-380,
+		-400
+	],
+	"healthicon": "starecrownold",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		93,
+		183
+	],
+	"camera_position": [
+		110,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
